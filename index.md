@@ -10,6 +10,7 @@
 My area of work is Machine Learning (specifically Deep Learning) with Computer Vision. My research interests include the interpretabiltity of cutting edge Deep Learning models and their practical significance for real-time applications. With this goal in mind, I have worked in the area of Model Compression and Efficient Computations in deep neural networks, mainly for image related tasks. Following the similar lines, I have explored the area of efficient video classification. 
 
 # Publications:
+<ul>
 <li> <a href="https://arxiv.org/abs/1902.10640"><h3>Efficient Video Classification Using Fewer Frames</h3></a><font color="grey"><h5><i><b>  IEEE Conference on Computer Vision And Pattern Recognition (CVPR 2019)</b></i></h5></font>
    <font color="black"><h5> Shweta Bhardwaj, Mitesh M. Khapra, Mukundhan Srinivasan </h5></font>
   </li></ul>
