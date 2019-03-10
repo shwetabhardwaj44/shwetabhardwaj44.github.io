@@ -19,7 +19,6 @@ My area of work is Machine Learning (specifically Deep Learning) with Computer V
    <font color="black"><h5> Deepak Mittal, Shweta Bhardwaj, Mitesh M. Khapra, Balaraman Ravindran </h5></font>
   </li></ul>
 <ul>
-<ul>
 <li> <a href="https://arxiv.org/abs/1805.04668"><h3>I Have Seen Enough: A Teacher Student Network for Video Classification Using Fewer Frames</h3></a><font color="grey"><h5><i><b>  Conference on Computer Vision And Pattern Recognition worshop on Brave New Ideas for Video Understanding (CVPR Workshop 2018)</b></i></h5></font>
    <font color="black"><h5> Shweta Bhardwaj, Mitesh M. Khapra </h5></font>
   </li></ul>
@@ -27,7 +26,6 @@ My area of work is Machine Learning (specifically Deep Learning) with Computer V
 <li> <a href="https://arxiv.org/abs/1801.10447"><h3>Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks</h3></a><font color="grey"><h5><i><b>  Winter Conference on Applications of Computer Vision (WACV 2018)</b></i></h5></font>
    <font color="black"><h5> Deepak Mittal*, Shweta Bhardwaj*, Mitesh M. Khapra, Balaraman Ravindran </h5></font>
   </li></ul>
-<ul>
 
 # Contact:
 shwetabhardwaj44@gmail.com
