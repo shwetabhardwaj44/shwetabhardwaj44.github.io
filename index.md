@@ -28,5 +28,5 @@ My area of work is Machine Learning (specifically Deep Learning) with Computer V
   </li></ul>
 
 # Contact:
-shwetabhardwaj44@gmail.com
+shwetabhardwaj44@gmail.com,
 shweta[at]cse[dot]iitm[dot]ac[dot]in 
