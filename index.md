@@ -3,7 +3,7 @@
 
 </head>
 # About Me
-<div style = "text-align: justify"> I am currently pursuing my M.S (By Research) under Dr. Mitesh M. Khapra. I have received my engineering degree in Computer Science And Engineering (2016) from Guru Nanak Dev University, Amritsar.
+<div style = "text-align: justify"> I am currently pursuing my M.S (By Research) under the guidance of Dr. Mitesh M. Khapra at Indian Institute of Technology Madras. I have received my engineering degree in Computer Science And Engineering (2016) from Guru Nanak Dev University, Amritsar. I have worked as Research Intern at NVIDIA Bangalore for six months (March 2018- Sep 2018).
 </div>
    
 # Areas of Interest
