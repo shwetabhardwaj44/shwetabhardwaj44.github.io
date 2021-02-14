@@ -3,10 +3,10 @@
 
 </head>
 # About Me
-<div style = "text-align: justify"> I am currently pursuing my M.S (By Research) under the guidance of Dr. Mitesh M. Khapra at Indian Institute of Technology Madras. I have received my engineering degree in Computer Science And Engineering (2016) from Guru Nanak Dev University, Amritsar. I have worked as Research Intern at NVIDIA Bangalore for six months (March 2018- Sep 2018).
+<div style = "text-align: justify"> I am working as a Data Scientist at Flipkart. I have completed my M.S (By Research) under the guidance of Dr. Mitesh M. Khapra at Indian Institute of Technology Madras. I have received my bachelor's degree in Computer Science And Engineering (2016) from GNDU. I have worked as Deep Learning Research Intern at NVIDIA Bangalore for six months (March 2018- Sep 2018).
 </div>
    
-# Areas of Interest
+# Research Interests
 My area of work is Machine Learning (specifically Deep Learning) with Computer Vision. My research interests include the interpretabiltity of cutting edge Deep Learning models and their practical significance for real-time applications. With this goal in mind, I have worked in the area of Model Compression and Efficient Computations in deep neural networks, mainly for image related tasks. Following the similar lines, I have explored the area of efficient video classification. 
 
 # Publications:
