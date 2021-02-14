@@ -27,6 +27,9 @@ My area of work is Machine Learning (specifically Deep Learning) with Computer V
    <font color="black"><h5> Deepak Mittal*, Shweta Bhardwaj*, Mitesh M. Khapra, Balaraman Ravindran </h5></font>
   </li></ul>
 
+# CV:
+<a href="https://drive.google.com/file/d/1N9Z8156u9vZOC5vBvOWPJoRQA_mi-_TB/view?usp=sharing"><h3>Resume</h3>
+
 # Contact:
-shwetabhardwaj44@gmail.com,
-shweta[at]cse[dot]iitm[dot]ac[dot]in 
+shwetabhardwaj44@gmail.com,  <a href="https://twitter.com/sh10bhardwaj"><h3>Twitter Profile</h3> 
+
