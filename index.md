@@ -28,8 +28,8 @@ My area of work is Machine Learning (specifically Deep Learning) with Computer V
   </li></ul>
 
 # CV:
-<a href="https://drive.google.com/file/d/1N9Z8156u9vZOC5vBvOWPJoRQA_mi-_TB/view?usp=sharing"><h3>Resume</h3>
+<a href="https://drive.google.com/file/d/1N9Z8156u9vZOC5vBvOWPJoRQA_mi-_TB/view?usp=sharing">Resume
 
 # Contact:
-shwetabhardwaj44@gmail.com,  <a href="https://twitter.com/sh10bhardwaj"><h3>Twitter Profile</h3> 
+shwetabhardwaj44@gmail.com,  <a href="https://twitter.com/sh10bhardwaj">Twitter Profile
 
