@@ -50,7 +50,7 @@ I am a Research Associate at [Google Research](https://research.google/locations
 
 Before this I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Trust & Safety team supervised by [Dr. Shourya Roy](https://www.linkedin.com/in/shouryaroy/), and previously by [Dr. Jatin Thukral](https://www.linkedin.com/in/dr-jatin-thukral-cfa-aa487b1/). Prior to joining Flipkart, I completed my M.S (by Research) at IIT Madras advised by [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/) and associated with RBC-DSAI lab (led by [Dr. Balaraman Ravindran](https://rbcdsai.iitm.ac.in/people/b-ravindran/)). I have completed my undergrad/B.Tech. in Computer Science from [Guru Nanak Dev University](http://www.gndu.ac.in/).
 
-My research interests broadly lie in Computer Vision, Explainable Aritifical Intelligence and Model Compression. I strongly believe that fundamental research in these fields for sensitive use-cases (__e.g, AI for criminal justice, automated health diagnosis __etc ) can go a long way to enhance human trust-worthiness of AI models.
+My research interests broadly lie in Computer Vision, Explainable Aritifical Intelligence and Model Compression. I strongly believe that fundamental research in these fields for sensitive use-cases (e.g. AI for criminal justice, automated health diagnosis etc.) can go a long way in enhancing human trust-worthiness of AI models.
 <!-- I strongly believe that the practical implicayi -->
 <!-- I strongly believe that technology benefits human society and has a lot of potential to improve human lives. -->
 
@@ -61,7 +61,7 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
     <div class="col-xs-4">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//iitd.ac.in"><img src="/images/logos/iitd.png"></a>
+            <a href="//iitd.ac.in"><img src="/images/logos/iitm.png"></a>
         </div>
         <div class="logo-desc">
             M.S (by research) - IIT Madras<br>
@@ -81,7 +81,7 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
     <div class="col-xs-4">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//gatech.edu"><img src="/images/logos/gatech.jpeg"></a>
+            <a target="_blank" href="//gatech.edu"><img src="/images/logos/google.png"></a>
         </div>
         <div class="logo-desc">
             RA -  Google Research<br>
@@ -95,11 +95,40 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
 <a name="/publications"></a>
 
 # Publications and Preprints
-<p>* Equal contribution</p>
-<a name="satco"></a>
-<h2 class="pubt">Recommendation of Compatible Outfits Conditioned on Style</h2>
+<a name="cvpr19"></a>
+<h2 class="pubt">Efficient Video Classification Using Fewer Frames</h2>
 <p class="pubd">
-    <span class="authors">Debopriyo Banerjee<sup>*</sup>, Lucky Dhakad<sup>*</sup>, Harsh Maheshwari<sup>*</sup>, Muthusamy Chelliah, Niloy Ganguly, Arnab Bhattacharya</span><br>
+    <span class="authors">Shweta Bhardwaj, Mitesh M. Khapra and Mukundhan Srinivasan</span><br>
+    <span class="conf">CVPR 2019 Conference (oral presentation)</span><br>
+    <span class="links">
+        <a target="_blank" href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Bhardwaj_Efficient_Video_Classification_Using_Fewer_Frames_CVPR_2019_paper.pdf">Paper</a>
+        <a target="_blank" href="https://drive.google.com/file/d/10mKTOR1rOApxkRXhxC_0FybEyORgJ59j/view">Poster</a>
+    </span>
+   
+</p>
+<img src="/images/cvpr19/teacher_student.png">
+<hr>
+
+<a name="mva19"></a>
+<h2 class="pubt">Studying the Plasticity of Deep Convolutional Neural Networks Using Random Pruning.</h2>
+<p class="pubd">
+    <span class="authors">Deepak Mittal, Shweta Bhardwaj, Mitesh M. Khapra and Balaraman Ravindran</span><br>
+    <span class="conf">Journal of Machine Vision and Applications 2019</span><br>
+    <span class="links">
+        <a target="_blank" href="https://www.springerprofessional.de/en/studying-the-plasticity-in-deep-convolutional-neural-networks-us/16407978">Paper</a>
+        <a target="_blank" href="https://drive.google.com/file/d/1nKpQmyZaybzkwW5mc8V6d_iEtj4KQbTC/view?usp=sharingw">Poster</a>
+    </span>
+   
+</p>
+<img src="/images/mva19/mva_image1.png">
+<!-- <img src="/images/mva19/mva_image2.png"> -->
+<hr>
+
+<p>* Equal contribution</p>
+<a name="cvpr19"></a>
+<h2 class="pubt"></h2>
+<p class="pubd">
+    <span class="authors">Shweta Bhardwaj<sup>*</sup>, Mitesh M. Khapra and </span><br>
     <span class="conf">ECIR'22 (presentation)</span><br>
     <span class="conf"> CODS-COMAD 2022 Demo track</span><br>
     <span class="links">
