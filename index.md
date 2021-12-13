@@ -24,7 +24,7 @@ permalink:  /
 </div>
 <hr>
 
-<a name="/news"></a>
+<!-- <a name="/news"></a>
 
 # News
 
@@ -39,18 +39,22 @@ permalink:  /
     <a nohref>Read more</a>
 </div>
 
-<hr>
+<hr> -->
 
 <a name="/bio"></a>
 
 # Bio
 
-I am a first year MS Student in the department of Computer Science at Georgia Institute of Technology, advised by [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/). Before that I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Recommendations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/). Prior to joining Flipkart, I completed my undergrad at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
+I am a Research Associate at Google Research working in the Mixed-Mode User Understanding team, under the mentorship of [Prof. Gaurav Aggarwal](https://research.google/people/GauravAggarwal/). I am currently working in the field of Dynamic Deep Neural Networks for Computer Vision.
 
-Broadly my interest lies in Computer Vision, Vision + Text, Creative AI. I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
+Before this I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Trust & Safety team supervised by [Dr. Shourya Roy](https://www.linkedin.com/in/shouryaroy/), and previously by [Dr. Jatin Thukral](https://www.linkedin.com/in/dr-jatin-thukral-cfa-aa487b1/). Prior to joining Flipkart, I completed my M.S (by Research) at IIT Madras advised by [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/) and associated with RBC-DSAI lab (led by [Dr. Balaraman Ravindran](https://rbcdsai.iitm.ac.in/people/b-ravindran/)). I have completed my undergrad/B.Tech. in Computer Science from [Guru Nanak Dev University](http://www.gndu.ac.in/).
 
-For about an year, I also volunteered my time with [DSIndiaVsCovid](http://dsindiavscovid.org/) mentored by [Dr. Srujana Merugu](https://www.linkedin.com/in/srujana-merugu-a7243819/), [Dr. Mohit Kumar](https://www.linkedin.com/in/mohitkum/) and [Dr. Alpan Raval](https://www.linkedin.com/in/alpan-raval-36219a2/). There, I worked on COVID-19 case count forecasting using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework was used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure. I also worked on a control framework to guide public health agencies in creating a policy schedule to control an epidemic.
-My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pdf).
+Broadly, my interest lies in Computer Vision, Explainable Aritifical Intelligence and Model Compression. 
+<!-- I strongly believe that the practical implicayi -->
+<!-- I strongly believe that technology benefits human society and has a lot of potential to improve human lives. -->
+
+<!-- For about an year, I also volunteered my time with [DSIndiaVsCovid](http://dsindiavscovid.org/) mentored by [Dr. Srujana Merugu](https://www.linkedin.com/in/srujana-merugu-a7243819/), [Dr. Mohit Kumar](https://www.linkedin.com/in/mohitkum/) and [Dr. Alpan Raval](https://www.linkedin.com/in/alpan-raval-36219a2/). There, I worked on COVID-19 case count forecasting using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework was used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure. I also worked on a control framework to guide public health agencies in creating a policy schedule to control an epidemic. -->
+<!-- My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pdf). -->
 
 <div class="row" id="timeline-logos">
     <div class="col-xs-4">
@@ -59,8 +63,8 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
             <a href="//iitd.ac.in"><img src="/images/logos/iitd.png"></a>
         </div>
         <div class="logo-desc">
-            B.Tech - IIT Delhi<br>
-            2015 - 2019
+            M.S (by research) - IIT Madras<br>
+            2016 - 2019
         </div>
     </div>
     <div class="col-xs-4">
@@ -79,7 +83,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
             <a target="_blank" href="//gatech.edu"><img src="/images/logos/gatech.jpeg"></a>
         </div>
         <div class="logo-desc">
-            MS -  Georgia Tech<br>
+            RA -  Google Research<br>
             2021 - Present
         </div>
     </div>
