@@ -27,7 +27,7 @@ permalink:  /interests/
     - Awaken the Giant within (Tony Robbins); Thinking, Fast and Slow (Kahneman Daniel)
     - And then there were None (Agatha Christie)
 
-- Youtube channels (You should definitely check them out)
+- Youtube channels (academia & space!)
     1. [Trustworthy ML Initiative](https://www.youtube.com/channel/UCzJzYJFp0uqv7efTkZidgnA)
     2. [Henry AI labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
     3. [How the universe works?](https://www.youtube.com/channel/UCu2QtA-3OIJoXdBZfHc3zRA)
