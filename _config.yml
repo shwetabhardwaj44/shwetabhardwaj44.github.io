@@ -4,6 +4,6 @@ url: http://shwetabhardwaj44.com
 author:
   name: Shweta Bhardwaj
   email: shwetabhardwaj44@gmail.com
-description: Research Associae at Google Research (via Optimum Infosystems Ltd)
+description: Research Associae at Google Research (via Optimum InfoSys Ltd)
 permalink: /posts/:title/
 include: ['_pages', satco_rec.md]

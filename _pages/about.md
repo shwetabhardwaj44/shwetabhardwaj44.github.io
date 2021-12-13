@@ -4,7 +4,7 @@ title:      About
 permalink:  /about/
 ---
 
-Redirecting to [harshm121.github.io](harshm121.github.io).
+Redirecting to [shwetabhardwaj44.github.io](shwetabhardwaj44.github.io).
 
 <script type="text/javascript">
     location.href='/';

@@ -10,7 +10,7 @@ permalink:  /
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Research Associate<br>
-        Google Research (via Optimum Infosystems Ltd)<br>
+        Google Research (via Optimum InfoSys Ltd)<br>
         <a target="_blank" href="mailto:bhardwajshweta@google.com">Email</a> / <a target="_blank" href="https://www.linkedin.com/in/shweta-bhardwaj-57524b125/">LinkedIn</a>
         <br>
         <figure>
