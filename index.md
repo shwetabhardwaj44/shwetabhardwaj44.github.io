@@ -5,7 +5,7 @@ permalink:  /
 ---
 
 <div class="row">
-    <div class="col-sm-4 col-xs-7">
+    <div class="col-sm-4 col-xs-6">
         <img src="/images/profile.jpeg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
