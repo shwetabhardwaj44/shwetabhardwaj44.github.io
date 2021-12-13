@@ -15,8 +15,8 @@ permalink:  /
         <br>
         <figure>
             <blockquote cite="https://www.goodreads.com/quotes/9570805-the-choice-as-he-saw-it-was-this-you-give">
-                <p>Do we settle for the world as it is, or do we work for the world as it should be?</p>
-                <figcaption>— Barack Obama</figcaption>
+                <p>"... approached as a collaborative effort, bringing communities together to carefully assess the complexities of designing AI systems for Sustainable Development Goals."</p>
+                <figcaption>— [UN report 2019](https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-UNACT-2019-1-PDF-E.pdf)</figcaption>
             </blockquote>
             
         </figure>
@@ -45,16 +45,16 @@ permalink:  /
 
 # Bio
 
-I am a Research Associate at Google Research working in the Mixed-Mode User Understanding team, under the mentorship of [Prof. Gaurav Aggarwal](https://research.google/people/GauravAggarwal/). I am currently working in the field of Dynamic Deep Neural Networks for Computer Vision.
+I am a Research Associate at Google Research working in the Mixed-Mode User Understanding team, under the mentorship of [Dr. Gaurav Aggarwal](https://research.google/people/GauravAggarwal/). I am currently working to build fully input-adaptive and dynamic deep neural networks for fine-grained visual recognition.
 
 Before this I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Trust & Safety team supervised by [Dr. Shourya Roy](https://www.linkedin.com/in/shouryaroy/), and previously by [Dr. Jatin Thukral](https://www.linkedin.com/in/dr-jatin-thukral-cfa-aa487b1/). Prior to joining Flipkart, I completed my M.S (by Research) at IIT Madras advised by [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/) and associated with RBC-DSAI lab (led by [Dr. Balaraman Ravindran](https://rbcdsai.iitm.ac.in/people/b-ravindran/)). I have completed my undergrad/B.Tech. in Computer Science from [Guru Nanak Dev University](http://www.gndu.ac.in/).
 
-Broadly, my interest lies in Computer Vision, Explainable Aritifical Intelligence and Model Compression. 
+My research interests broadly lie in Computer Vision, Explainable Aritifical Intelligence and Model Compression. I strongly believe that fundamental research in these fields for sensitive use-cases (__e.g, AI for criminal justice, automated health diagnosis __etc ) can go a long way to enhance human trust-worthiness of AI models.
 <!-- I strongly believe that the practical implicayi -->
 <!-- I strongly believe that technology benefits human society and has a lot of potential to improve human lives. -->
 
-<!-- For about an year, I also volunteered my time with [DSIndiaVsCovid](http://dsindiavscovid.org/) mentored by [Dr. Srujana Merugu](https://www.linkedin.com/in/srujana-merugu-a7243819/), [Dr. Mohit Kumar](https://www.linkedin.com/in/mohitkum/) and [Dr. Alpan Raval](https://www.linkedin.com/in/alpan-raval-36219a2/). There, I worked on COVID-19 case count forecasting using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework was used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure. I also worked on a control framework to guide public health agencies in creating a policy schedule to control an epidemic. -->
-<!-- My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pdf). -->
+<!-- For about two months, I also volunteered my time with [DSIndiaVsCovid](http://dsindiavscovid.org/) mentored by [Dr. Srujana Merugu](https://www.linkedin.com/in/srujana-merugu-a7243819/), [Dr. Mohit Kumar](https://www.linkedin.com/in/mohitkum/) and [Dr. Alpan Raval](https://www.linkedin.com/in/alpan-raval-36219a2/). There, I worked on COVID-19 case count forecasting using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework was used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure. I also worked on a control framework to guide public health agencies in creating a policy schedule to control an epidemic. -->
+My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhardwaj_2021.pdf).
 
 <div class="row" id="timeline-logos">
     <div class="col-xs-4">
