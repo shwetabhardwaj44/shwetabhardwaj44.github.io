@@ -81,7 +81,7 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
     <div class="col-xs-5">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//iitd.ac.in"><img src="/images/logos/nvidia.png"></a>
+            <a href="//iitd.ac.in"><img src="/images/logos/nvidia.jpeg"></a>
         </div>
         <div class="logo-desc">
             Research Internship - NVIDIA Bangalore<br>
