@@ -18,18 +18,19 @@ permalink:  /interests/
 
 
 - Movies
-    1. The Pursuit of Happyness
-    2. Seven Pounds
-    3. Boyhood
+    1. A peaceful Warrior
+    2. The Reader
+    3. Masaan
 
-- Documentaries
-    1. Earthlings (Do take out some time and watch this one)
-    2. Before the flood
+- Books
+    - Guns, Germs and Steel (Jared Diamond); "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character
+    - Awaken the Giant within (Tony Robbins); Thinking, Fast and Slow (Kahneman Daniel)
+    - And then there were None (Agatha Christie)
 
 - Youtube channels (You should definitely check them out)
-    1. [ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A)
-    2. [The School of Life](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
-    3. [Cinema Beyond Entertainment](https://www.youtube.com/channel/UC9uNpqgB0PfH1-hHQrUWXyw)
-    4. [The Indian Jam Project](https://www.youtube.com/channel/UCbpLD76CnWWZ-JqZ9LjR2Mw)
+    1. [Trustworthy ML Initiative](https://www.youtube.com/channel/UCzJzYJFp0uqv7efTkZidgnA)
+    2. [Henry AI labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
+    3. [How the universe works?](https://www.youtube.com/channel/UCu2QtA-3OIJoXdBZfHc3zRA)
+    4. [The Flight Channel](https://www.youtube.com/c/theflightchannel)
 
 
