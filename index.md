@@ -139,54 +139,7 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
 <img src="/images/satcogen/satcogen.png">
 <hr>
 
-<a name="/cosir"></a>
-<h2 class="pubt">CoSIR: Optimal control of SIR epidemic dynamics by mapping to Lotka-Volterra System</h2>
-<p class="pubd">
-    <span class="authors">Harsh Maheshwari, Shreyas Shetty, Nayana Bannur, Srujana Merugu</span><br>
-    <span class="conf">ICLR'21 MLPCP Workshop, CHIL'21 Workshop</span><br>
-    <!-- <span class="conf">Under review at NeurIPS 2021</span><br> -->
-    <span class="links">
-        <a target="_blank" href="https://www.medrxiv.org/content/10.1101/2020.11.10.20211995">Paper</a>
-        <a target="_blank" href="https://github.com/dsindiavscovid/CoSIR">Code</a>
-        <a target="_blank" href="http://cosir.herokuapp.com/">Demo</a>
-        <a target="_blank" href="https://harshm121.github.io/PDFs/CoSIR_CHIL_poster.pdf">Poster</a>
-    </span>
-</p>
-<img src="/images/cosir/cosir.png">
-<hr>
-
-<a name="/supermart"></a>
-<h2 class="pubt">Audience Creation for Consumables - Simple and Scalable Precision Merchandising for a Growing Marketplace</h2>
-<p class="pubd">
-    <span class="authors">Shreyas S<sup>*</sup>, Harsh Maheshwari<sup>*</sup>, Avijit Saha<sup>*</sup>, Samik Datta<sup>*</sup>, Shashank Jain, Disha Makhija, Anuj Nagpal, Sneha Shukla, Suyash S</span><br>
-    <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2011.08575">Paper</a>
-    </span>
-</p>
-<img src="/images/supermart/supermart.png">
-<hr>
-
-<a name="/cityforecasting"></a>
-<h2 class="pubt">A Flexible Data- Driven Framework for COVID-19 Case Forecasting Deployed in a Developing- world Public Health Setting</h2>
-<p class="pubd">
-    <span class="authors">Sansiddh Jain, Avtansh Tiwari, Nayana Bannur, Ayush Deva, Siddhant Shingi, Vishwa Shah, Mihir Kulkarni, Namrata Deka, Keshav Ramaswami, Vasudha Khare, Harsh Maheshwari, Soma Dhavala, Jithin Sreedharan, Jerome White, Srujana Merugu, Alpan Raval</span><br>
-</p>
-<img src="/images/cityforecasting/cityforecasting.png">
-<hr>
-
-<a name="/adaptiveforecast"></a>
-<h2 class="pubt">Adaptive COVID-19 Forecasting via Bayesian Optimization</h2>
-<p class="pubd">
-    <span class="authors">Nayana Bannur, Harsh Maheshwari, Sansiddh Jain, Shreyas Shetty, Srujana Merugu, Alpan Raval</span><br>
-    <span class="conf">CoDS-COMAD 2021</span><br>
-    <span class="links">
-        <a target="_blank" href="https://dl.acm.org/doi/10.1145/3430984.3431047">Paper</a>
-        <a target="_blank" href="https://github.com/dsindiavscovid/covid19-india">Code</a>
-    </span>
-</p>
-<hr>
-
-<a name="/talks"></a>
+<!-- <a name="/talks"></a> -->
 
 <!-- # Talks
 
