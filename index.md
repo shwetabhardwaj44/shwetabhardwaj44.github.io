@@ -61,11 +61,11 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
     <div class="col-xs-5">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//iitd.ac.in"><img src="/images/logos/iitm.png"></a>
+            <a target="_blank" href="//gatech.edu"><img src="/images/logos/google.png"></a>
         </div>
         <div class="logo-desc">
-            M.S (by research) - IIT Madras<br>
-            2016 - 2019
+            RA -  Google Research<br>
+            2021 - Present
         </div>
     </div>
     <div class="col-xs-5">
@@ -81,13 +81,23 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
     <div class="col-xs-5">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//gatech.edu"><img src="/images/logos/google.png"></a>
+            <a href="//iitd.ac.in"><img src="/images/logos/nvidia.png"></a>
         </div>
         <div class="logo-desc">
-            RA -  Google Research<br>
-            2021 - Present
+            Research Internship - NVIDIA Bangalore<br>
+            Mar'2018 - Aug'2018
         </div>
-    </div>
+    </div>        
+    <div class="col-xs-5">
+        <div class="logo-wrap">
+            <span class="helper"></span>
+            <a href="//iitd.ac.in"><img src="/images/logos/iitm.png"></a>
+        </div>
+        <div class="logo-desc">
+            M.S (by research) - IIT Madras<br>
+            2016 - 2019
+        </div>
+    </div> 
 </div>
 
 ---
