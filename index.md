@@ -55,7 +55,7 @@ My research interests broadly lie in Computer Vision, Explainable Aritifical Int
 <!-- I strongly believe that technology benefits human society and has a lot of potential to improve human lives. -->
 
 <!-- For about two months, I also volunteered my time with [DSIndiaVsCovid](http://dsindiavscovid.org/) mentored by [Dr. Srujana Merugu](https://www.linkedin.com/in/srujana-merugu-a7243819/), [Dr. Mohit Kumar](https://www.linkedin.com/in/mohitkum/) and [Dr. Alpan Raval](https://www.linkedin.com/in/alpan-raval-36219a2/). There, I worked on COVID-19 case count forecasting using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework was used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure. I also worked on a control framework to guide public health agencies in creating a policy schedule to control an epidemic. -->
-My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhardwaj_2021.pdf).
+My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhardwaj.pdf).
 
 <div class="row" id="timeline-logos">
     <div class="col-xs-5">
