@@ -50,7 +50,7 @@ I am a Research Associate at [Google Research](https://research.google/locations
 
 Before this I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Trust & Safety team supervised by [Dr. Shourya Roy](https://www.linkedin.com/in/shouryaroy/), and previously by [Dr. Jatin Thukral](https://www.linkedin.com/in/dr-jatin-thukral-cfa-aa487b1/). Prior to joining Flipkart, I completed my M.S (by Research) at IIT Madras advised by [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/) and associated with RBC-DSAI lab (led by [Dr. Balaraman Ravindran](https://rbcdsai.iitm.ac.in/people/b-ravindran/)). I have completed my undergrad/B.Tech. in Computer Science from [Guru Nanak Dev University](http://www.gndu.ac.in/).
 
-My research interests broadly lie in Computer Vision, Explainable Aritifical Intelligence and Model Compression. I strongly believe that fundamental research in these fields for sensitive use-cases (__e.g, AI for criminal justice, automated health diagnosis __etc ) can go a long way to enhance human trust-worthiness of AI models.
+My research interests broadly lie in Computer Vision, Explainable Aritifical Intelligence and Model Compression. I strongly believe that fundamental research in these fields for sensitive use-cases (e.g. AI for criminal justice, automated health diagnosis etc.) can go a long way to enhance human trust-worthiness of AI models.
 <!-- I strongly believe that the practical implicayi -->
 <!-- I strongly believe that technology benefits human society and has a lot of potential to improve human lives. -->
 
