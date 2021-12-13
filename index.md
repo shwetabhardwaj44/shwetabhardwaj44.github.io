@@ -5,8 +5,8 @@ permalink:  /
 ---
 
 <div class="row">
-    <div class="col-sm-5 col-xs-4">
-        <img src="/images/profile.jpeg">
+    <div class="col-sm-4 col-xs-4">
+        <img src="/images/profile.png">
     </div>
     <div class="col-sm-7 col-xs-10" style="margin-bottom: 0;">
         Research Associate<br>
