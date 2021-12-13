@@ -5,10 +5,10 @@ permalink:  /
 ---
 
 <div class="row">
-    <div class="col-sm-4 col-xs-4">
+    <div class="col-sm-5 col-xs-4">
         <img src="/images/profile.jpeg">
     </div>
-    <div class="col-sm-5 col-xs-8" style="margin-bottom: 0;">
+    <div class="col-sm-7 col-xs-10" style="margin-bottom: 0;">
         Research Associate<br>
         Google Research (via Optimum InfoSys Ltd)<br>
         <a target="_blank" href="mailto:bhardwajshweta@google.com">Email</a> / <a target="_blank" href="https://www.linkedin.com/in/shweta-bhardwaj-57524b125/">LinkedIn</a>
