@@ -14,8 +14,8 @@ permalink:  /
         <a target="_blank" href="mailto:bhardwajshweta@google.com">Email</a> / <a target="_blank" href="https://www.linkedin.com/in/shweta-bhardwaj-57524b125/">LinkedIn</a>
         <br>
         <figure>
-            <blockquote cite="https://www.goodreads.com/quotes/9570805-the-choice-as-he-saw-it-was-this-you-give">
-                <p>AI for social good... a collaborative effort, bringing communities together to carefully assess the complexities of designing AI systems for Sustainable Development Goals.</p> </blockquote>     - <a href="https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-UNACT-2019-1-PDF-E.pdf">UN 2019</a>
+            <blockquote cite="https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-UNACT-2019-1-PDF-E.pdf">
+                <p>AI for social good... a collaborative effort, bringing communities together to carefully assess the complexities of designing AI systems for Sustainable Development Goals. </a> - UN 2019</a></p> </blockquote>
                 <!-- <figcaption> <p><a href="https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-UNACT-2019-1-PDF-E.pdf">UN report 2019</a></p> -->
                 <!-- [UN report 2019](https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-UNACT-2019-1-PDF-E.pdf) -->
                 <!-- </figcaption> -->
