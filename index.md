@@ -15,7 +15,7 @@ permalink:  /
         <br>
         <figure>
             <blockquote cite="https://www.goodreads.com/quotes/9570805-the-choice-as-he-saw-it-was-this-you-give">
-                <p>AI for social good... a collaborative effort, bringing communities together to carefully assess the complexities of designing AI systems for Sustainable Development Goals. </p> </blockquote> - <a href="https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-UNACT-2019-1-PDF-E.pdf">UN 2019</a>
+                <p>AI for social good... a collaborative effort, bringing communities together to carefully assess the complexities of designing AI systems for Sustainable Development Goals.</p> </blockquote>     - <a href="https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-UNACT-2019-1-PDF-E.pdf">UN 2019</a>
                 <!-- <figcaption> <p><a href="https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-UNACT-2019-1-PDF-E.pdf">UN report 2019</a></p> -->
                 <!-- [UN report 2019](https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-UNACT-2019-1-PDF-E.pdf) -->
                 <!-- </figcaption> -->
@@ -46,7 +46,7 @@ permalink:  /
 
 # Bio
 
-I am a Research Associate at Google Research working in the Mixed-Mode User Understanding team, under the mentorship of [Dr. Gaurav Aggarwal](https://research.google/people/GauravAggarwal/). I am currently working to build fully input-adaptive and dynamic deep neural networks for fine-grained visual recognition.
+I am a Research Associate at [Google Research](https://research.google/locations/india/) working in the Mixed-Mode User Understanding team, under the mentorship of [Dr. Gaurav Aggarwal](https://research.google/people/GauravAggarwal/). I am currently working to build fully input-adaptive and dynamic deep neural networks for fine-grained visual recognition.
 
 Before this I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Trust & Safety team supervised by [Dr. Shourya Roy](https://www.linkedin.com/in/shouryaroy/), and previously by [Dr. Jatin Thukral](https://www.linkedin.com/in/dr-jatin-thukral-cfa-aa487b1/). Prior to joining Flipkart, I completed my M.S (by Research) at IIT Madras advised by [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/) and associated with RBC-DSAI lab (led by [Dr. Balaraman Ravindran](https://rbcdsai.iitm.ac.in/people/b-ravindran/)). I have completed my undergrad/B.Tech. in Computer Science from [Guru Nanak Dev University](http://www.gndu.ac.in/).
 
