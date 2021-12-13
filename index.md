@@ -58,7 +58,7 @@ My research interests broadly lie in Computer Vision, Explainable Aritifical Int
 My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhardwaj.pdf).
 
 <div class="row" id="timeline-logos">
-    <div class="col-xs-4.5">
+    <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a target="_blank" href="//gatech.edu"><img src="/images/logos/google.png"></a>
@@ -68,7 +68,7 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
             2021 - Present
         </div>
     </div>
-    <div class="col-xs-4.5">
+    <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//flipkart.com"><img src="/images/logos/flipkart.jpeg"></a>
@@ -78,7 +78,7 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
             2019-2021
         </div>
     </div>
-    <div class="col-xs-4.5">
+    <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//iitd.ac.in"><img src="/images/logos/nvidia.jpeg"></a>
@@ -88,7 +88,7 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
             Mar'2018 - Aug'2018
         </div>
     </div>        
-    <div class="col-xs-4.5">
+    <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//iitd.ac.in"><img src="/images/logos/iitm.png"></a>
