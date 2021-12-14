@@ -104,7 +104,8 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
 
 <a name="/publications"></a>
 
-# Publications and Preprints
+# Preprints and Publications
+
 <a name="cvpr19"></a>
 <h2 class="pubt">Efficient Video Classification Using Fewer Frames</h2>
 <p class="pubd">
@@ -136,6 +137,21 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
 <!-- <img src="/images/mva19/mva_image1.png" width="40" /> -->
 <!-- <img src="/images/mva19/mva_image2.png" width="10" /> -->
 <hr>
+
+<a name="thesis"></a>
+<h2 class="pubt">Masters Thesis (IITM): Efficient Video Classification</h2>
+<p class="pubd">
+    <span class="authors">Shweta Bhardwaj</span><br>
+    <span class="conf">Advisor: Dr. Mitesh M. Khapra</span><br>
+    <span class="links">
+        <a target="_blank" href="https://shwetabhardwaj44.github.io/PDFs/thesis.pdf">Thesis</a>
+        <a target="_blank" href="https://shwetabhardwaj44.github.io/PDFs/thesis_slides_shweta.pdf">Slides</a>
+    </span>
+   
+</p>
+<img src="/images/thesis/thesis_image.jpg" width="50" />
+<hr>
+
 
 <!-- <p>* Equal contribution</p>
 <a name="cvpr19"></a>
