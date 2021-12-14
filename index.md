@@ -117,6 +117,7 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
    
 </p>
 <img src="/images/cvpr19/teacher_student.png">
+<img src="/images/cvpr19/tsne_teacher_student.png">
 <hr>
 
 <a name="mva19"></a>
@@ -131,10 +132,10 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
    
 </p>
 <img src="/images/mva19/mva_image1.png">
-<!-- <img src="/images/mva19/mva_image2.png"> -->
+<img src="/images/mva19/mva_image2.png">
 <hr>
 
-<p>* Equal contribution</p>
+<!-- <p>* Equal contribution</p>
 <a name="cvpr19"></a>
 <h2 class="pubt"></h2>
 <p class="pubd">
@@ -147,7 +148,7 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
    
 </p>
 <img src="/images/satcogen/satcogen.png">
-<hr>
+<hr> -->
 
 <!-- <a name="/talks"></a> -->
 
