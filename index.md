@@ -116,7 +116,7 @@ My CV is available [here](https://shwetabhardwaj44.github.io/PDFs/CV_ShwetaBhard
     </span>
    
 </p>
-<img src="/images/cvpr19/paper_image.png" width="50" />
+<img src="/images/cvpr19/paper_image.jpg" width="50" />
 <!-- <img src="/images/cvpr19/teacher_student.png" width="50" /> -->
 <!-- <img src="/images/cvpr19/tsne_teacher_student.png" width="10" /> -->
 <hr>
